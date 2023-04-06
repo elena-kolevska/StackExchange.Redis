@@ -2,7 +2,7 @@
 
 namespace Examples
 {
-    public class SetGetTests
+    public class ExampleTests
     {
 
         [Fact]
