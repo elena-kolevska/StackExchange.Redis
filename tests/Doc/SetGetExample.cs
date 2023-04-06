@@ -7,7 +7,6 @@ namespace Doc;
 
 public class SetGetExample
 {
-    //TODO: Let the parser remove the annotations
     [Fact]
     public void run()
     {
